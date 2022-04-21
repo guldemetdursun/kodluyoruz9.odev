@@ -1,0 +1,118 @@
+
+body {
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    background-color:bisque;
+    
+}
+
+
+
+
+ nav{
+    border: 5px solid rgb(54, 196, 130);
+    margin: 1px;
+    text-align: center;
+    word-spacing: 100px;
+    background-color: rgb(221, 81, 81);
+    height: 75px;
+    
+ }
+
+
+
+
+    header{
+    margin: auto;
+    width: 100%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+    background-color: rgb(147, 68, 155);
+    
+    }
+
+    .baslik{
+        font-style: oblique;
+        font-size: 100px;
+    }
+
+
+
+    .li {
+
+        width: 90px;
+        margin :0 auto;
+    }
+
+    
+
+    .text-red {
+
+        color:red;
+
+    }
+
+    .text-purple {
+
+        color:blueviolet;
+    }
+
+    h3 {
+
+        color:blueviolet ;
+
+    }
+
+    h2, h3 {
+
+        text-align: center;
+    }
+
+    .ortala{
+
+        text-align: center;
+    }
+
+    ul {
+        display: block;
+        list-style-type: disc;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        padding-inline-start: 40px;
+    }
+
+
+    ::marker {
+        color: red;
+        font-size: 23px;
+        unicode-bidi: isolate;
+        font-variant-numeric: tabular-nums;
+        text-transform: none;
+        text-indent: 0px !important;
+        text-align: start !important;
+        text-align-last: start !important;
+    }
+
+    .center-list {
+        width: 60px;
+        margin: 0 auto;
+    }
+
+    h2 {
+
+        color:red
+
+    }
+    p {
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    }
+
